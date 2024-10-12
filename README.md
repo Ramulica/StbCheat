@@ -8,7 +8,8 @@ Apicatia a fost facuta cu scopul de a placalii controlorii de autobus is tramvai
 Aplicatia StbCeat contine multtiple pagini din aplicatia originala precum:
 
 Pagina acasa
-![stbCheatHome](https://github.com/user-attachments/assets/59edd120-34d7-4886-8768-2ff65c23442c)
+
+![stbCheatHome](https://github.com/user-attachments/assets/59edd120-34d7-4886-8768-2ff65c23442c =250x)
 
 
 
