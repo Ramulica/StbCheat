@@ -1,10 +1,16 @@
 # cheatstb
 
-A new Flutter project.
+CheatStb este o copue 90% a aplicatiei de telefon a Societatea de Transport București.
+Apicatia a fost facuta cu scopul de a placalii controlorii de autobus is tramvai ca sa nu mai platesc abonament
 
-## Getting Started
+## Informatii despre aplicatie
 
-This project is a starting point for a Flutter application.
+Aplicatia StbCeat contine multtiple pagini din aplicatia originala precum:
+
+Pagina acasa
+![stbCheatHome](https://github.com/user-attachments/assets/59edd120-34d7-4886-8768-2ff65c23442c)
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
