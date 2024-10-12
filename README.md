@@ -9,8 +9,9 @@ Aplicatia StbCeat contine multtiple pagini din aplicatia originala precum:
 
 Pagina acasa
 
+![stbCheatHome](https://github.com/user-attachments/assets/69a97667-f71e-404f-bba2-f583a585e972)![stbCheatHome](https://github.com/user-attachments/assets/7ad9281c-423b-418c-aeab-aeb03529bbdd)
 
-![stbCheatHome2](https://github.com/user-attachments/assets/58f4d95f-2dde-4a58-91ae-4ca67e672eff)
+
 
 
 
