@@ -1,8 +1,8 @@
-#CheatSTB
+# CheatSTB
 Overview:
 CheatSTB is a mobile application that replicates approximately 90% of the official Bucharest Transport Company (STB) app. It was created as a personal project aimed at bypassing fare inspectors on buses and trams.
 
-##Project Details:
+## Project Details:
 The app includes several key features from the original STB app, such as:
 
 -Home page
