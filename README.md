@@ -1,13 +1,14 @@
-# cheatstb
+#CheatSTB
+Overview:
+CheatSTB is a mobile application that replicates approximately 90% of the official Bucharest Transport Company (STB) app. It was created as a personal project aimed at bypassing fare inspectors on buses and trams.
 
-CheatStb este o copue 90% a aplicatiei de telefon a Societatea de Transport București.
-Apicatia a fost facuta cu scopul de a placalii controlorii de autobus is tramvai ca sa nu mai platesc abonament
+##Project Details:
+The app includes several key features from the original STB app, such as:
 
-## Informatii despre aplicatie
-
-Aplicatia StbCeat contine multtiple pagini din aplicatia originala precum:
-
-Pagina acasa, pagina profil, cumpara tarif, titluri tarife (nu scanati codul qr, nu este adecvat), etc
+-Home page
+-User profile page
+-Ticket purchase options
+-Ticket types (Note: the QR code is a joke, is not appropriate for actual use, it might contain 18+ content)
 
 ![stbCheatHome](https://github.com/user-attachments/assets/69a97667-f71e-404f-bba2-f583a585e972)        ![stbCheatDrawer](https://github.com/user-attachments/assets/46199bf7-4d39-480b-9377-c5028bd2f31f)        ![stbCheatTT](https://github.com/user-attachments/assets/0e5084b9-5e89-4494-9a98-a6011ad3b147)   ![stbCheatSTT](https://github.com/user-attachments/assets/1d830c0e-802b-426f-aac1-8d314f7e490c)   ![stbCheatProfil](https://github.com/user-attachments/assets/8bf13c3d-9a90-4f8c-97c4-557cf4e55f6b)
 
